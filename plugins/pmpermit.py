@@ -17,7 +17,7 @@ async def pmPermit(client: SAMMY, message: Message):
                 return
             await SAMMY.send_message(
                 message.chat.id,
-                "Hi there, This is a music assistant service .\n\n ❗️ Rules:\n   - No chatting allowed\n   - No spam allowed \n\n 👉 **SEND YOUR GROUP INVITE LINK OR USERNAME HERE @SiderzBot IF USERBOT CAN'T JOIN YOUR GROUP.**\n\n ⚠️ Disclamer: If you need any help then join support group :- @SiderzChat\n    - Don't add this user to secret groups.\n   - Don't Share private info here\n\n",
+                "Hi There , This bot is Developed by @weTemp!\nYou Can Contact Him via @MrInfinity_robot",
             )
             return
 
