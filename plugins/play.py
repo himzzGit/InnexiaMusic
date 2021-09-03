@@ -482,8 +482,7 @@ async def play(_, message: Message):
                 except Exception:
                     # print(e)
                     await lel.edit(
-                        f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                        "\n\nOr manually add assistant to your Group and try again</b>",
+                        f"<b>Ruko Ruko Kuch Problem Aa rha..Invite @weTemp in ur group! HE WILL CHECK.</b>",
                     )
     try:
         await USER.get_chat(chid)
@@ -758,8 +757,7 @@ async def ytplay(_, message: Message):
                 except Exception:
                     # print(e)
                     await lel.edit(
-                        f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                        "\n\nOr manually add assistant to your Group and try again request here @SiderzBot with your group link</b>",
+                        f"<b>Ruko Ruko Kuch Problem Aa rha..Invite @weTemp in ur group! HE WILL CHECK.</b>",
                     )
     try:
         await USER.get_chat(chid)
@@ -904,10 +902,8 @@ async def deezer(client: Client, message_: Message):
                 except Exception:
                     # print(e)
                     await lel.edit(
-                        f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                        "\n\nOr manually add assistant to your Group and try again request here @SiderzBot with your group link</b>",
+                        f"<b>Ruko Ruko Kuch Problem Aa rha..Invite @weTemp in ur group! HE WILL CHECK.</b>",
                     )
-    try:
         await USER.get_chat(chid)
         # lmoa = await client.get_chat_member(chid,wew)
     except:
@@ -1042,8 +1038,7 @@ async def jiosaavn(client: Client, message_: Message):
                 except Exception:
                     # print(e)
                     await lel.edit(
-                        f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                        "\n\nOr manually add @InnexiaVCBot to your Group and try again request here @SiderzBot with your group link</b>",
+                        f"<b>Ruko Ruko Kuch Problem Aa rha..Invite @weTemp in ur group! HE WILL CHECK.</b>",
                     )
     try:
         await USER.get_chat(chid)
